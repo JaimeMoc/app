@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/Jaime.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Jaime Alberto Suarez Moctezuma.";
 
 /**
  * Project list
