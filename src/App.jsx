@@ -26,7 +26,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Jaime Alberto Suarez Moctezuma.",
-  title: "Estudiante de la Ingeniería en sistemas computacionales.",
+  title: "Estudiante de sistemas computacionales.",
   email: "JaimeAlberto.SuarezMoctezuma@studentambassadors.com",
   gitHub: "JaimeMoc",
   instagram: "tbrboystar",
