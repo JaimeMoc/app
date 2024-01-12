@@ -2,7 +2,7 @@ import React from "react";
 
 const Education = () => {
     return(
-        <section className="light" id="education">
+        <section className="light" id="Education">
             <h2>Education</h2>
             <p>Ingenieria en sistemas computacionales. Tecnologico de Tuxtla Gutierrez.</p>
             <p>Embajador Estudiantil de Microsoft.</p>
