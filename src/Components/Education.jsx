@@ -3,9 +3,11 @@ import React from "react";
 const Education = () => {
     return(
         <section className="light" id="Education">
-            <h2>Education</h2>
-            <p>Ingenieria en sistemas computacionales. Tecnologico de Tuxtla Gutierrez.</p>
-            <p>Embajador Estudiantil de Microsoft.</p>
+            <h2 style={{textAlign: "center"}}>Education</h2>
+            <ul>
+            <li>Ingenieria en sistemas computacionales. Tecnologico de Tuxtla Gutierrez.</li>
+            <li>Embajador Estudiantil de Microsoft.</li>
+            </ul>
         </section>
     )
 }
