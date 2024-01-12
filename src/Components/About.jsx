@@ -47,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-" I am a computer systems student residing in San Cristóbal de Las Casas, Chiapas. My passion for technology, data, and data science is something that defines me. I have always been fascinated by how technology can change the world and how data can be used to make informed decisions. As a computer systems student, I have acquired a solid foundation in programming, networks, and operating systems. I am constantly looking for opportunities to apply and expand my technical skills. My passion for data science stems from my love for technology and data. I am fascinated by the idea of using data to uncover hidden patterns and trends. I firmly believe in the power of data to inform and guide decision-making, both in business and in everyday life.";
+" I am a computer systems student residing in San Cristóbal de Las Casas, Chiapas. My passion for technology, data, and data science is something that defines me. I have always been fascinated by how technology can change the world and how data can be used to make informed decisions. As a computer systems student, I have acquired a solid foundation in programming, networks, and operating systems. I am constantly looking for opportunities to apply and expand my technical skills. I firmly believe in the power of data to inform and guide decision-making, both in business and in everyday life.";
 
 const About = () => {
   return (
