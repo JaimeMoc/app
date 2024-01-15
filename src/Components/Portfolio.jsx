@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Jaime.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Jaime Alberto Suarez Moctezuma.";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Proyecto creación de una Base de Datos Biblioteca.",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Este proyecto tiene como objetivo principal digitalizar el sistema de gestión y administración de una biblioteca. La biblioteca, en busca de mayor eficiencia y reconocimiento, ha decidido adoptar un sistema basado en una base de datos. El administrador de base de datos desplegará una estructura robusta que permita la gestión integral de libros, empleados, préstamos, multas, géneros, editoriales y miembros.",
+    url: "https://github.com/JaimeMoc/Biblioteca",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Descripción de la Ciencia de Datos para el Aprendizaje Automático.",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Este repositorio forma parte de la ruta profesional de Microsoft Descripción de la Ciencia de Datos para el Aprendizaje Automático. Aquí encontrarás fragmentos de código en Python relacionados con tareas comunes de machine learning, así como ejemplos específicos de la ruta de aprendizaje.",
+    url: "https://github.com/JaimeMoc/Microsoft_Learn_Machine",
   },
   {
-    title: "My Resume Site",
+    title: "Proyecto exploratorio sobre los salarios mínimos en México.",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Este proyecto tiene como objetivo realizar un análisis exploratorio de datos para obtener información relevante y patrones ocultos en un conjunto de datos recopilados acerca de los salarios mínimos de México recolectados durante diferentes años. A través de técnicas de visualización y estadística descriptiva, se busca comprender mejor la estructura y las característica de los datos.",
+    url: "https://github.com/JaimeMoct/SalariosMin",
   },
 ];
 

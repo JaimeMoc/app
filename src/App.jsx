@@ -10,6 +10,7 @@ import About from "./Components/About";
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
+import Education from "./Components/Education";
 import Portfolio from "./Components/Portfolio";
 
 import "./styles.css";
@@ -23,14 +24,12 @@ import "./styles.css";
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
-const siteProps = {
   name: "Jaime Alberto Suarez Moctezuma",
-  title: "Embajador estudiantil de Microsoft.",
+  title: "Estudiante de sistemas computacionales.",
   email: "JaimeAlberto.SuarezMoctezuma@studentambassadors.com",
   gitHub: "JaimeMoc",
   instagram: "tbrboystar",
   linkedIn: "Jaime Alberto Suarez Moctezuma",
-  medium: "",
 };
 
 const primaryColor = "#4E567E";
@@ -42,6 +41,7 @@ const App = () => {
       <Header />
       <Home name={siteProps.name} title={siteProps.title} />
       <About />
+      <Education />
       <Portfolio />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
     </div>
